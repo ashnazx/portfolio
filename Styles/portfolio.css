@@ -1,0 +1,14 @@
+h1{
+    color: black;
+    margin: 30px;
+
+}
+
+body{
+    background-image: url("../Images/aesthetic\ pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+    font-size: 30px;
+}
